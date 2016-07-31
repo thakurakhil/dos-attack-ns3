@@ -1,0 +1,33 @@
+Reading XML file . done.
+FlowID: 1 (UDP 10.0.1.1/520 --> 10.0.1.2/520)
+	Mean Delay: 12.01 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 2 (UDP 10.0.1.2/520 --> 10.0.1.1/520)
+	Mean Delay: 11.01 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 3 (UDP 10.0.2.2/49153 --> 10.0.0.1/4000)
+	TX bitrate: 2.95 kbit/s
+	RX bitrate: 1.71 kbit/s
+	Mean Delay: 734.39 ms
+	Packet Loss Ratio: 72.00 %
+FlowID: 4 (UDP 10.0.5.2/49153 --> 10.0.0.1/4000)
+	TX bitrate: 14026.86 kbit/s
+	RX bitrate: 3045.23 kbit/s
+	Mean Delay: 151.59 ms
+	Packet Loss Ratio: 99.92 %
+FlowID: 5 (UDP 10.0.6.2/49153 --> 10.0.0.1/4000)
+	TX bitrate: 14026.86 kbit/s
+	RX bitrate: 3042.83 kbit/s
+	Mean Delay: 151.36 ms
+	Packet Loss Ratio: 99.92 %
+FlowID: 6 (UDP 10.0.3.2/49153 --> 10.0.0.1/4000)
+	TX bitrate: 3.01 kbit/s
+	Mean Delay: 1449.78 ms
+	Packet Loss Ratio: 95.24 %
+FlowID: 7 (UDP 10.0.4.2/49153 --> 10.0.0.1/4000)
+	TX bitrate: 3.12 kbit/s
+FlowID: 8 (UDP 10.0.7.2/49153 --> 10.0.0.1/4000)
+	TX bitrate: 140269.29 kbit/s
+	RX bitrate: 244.71 kbit/s
+	Mean Delay: 1588.03 ms
+	Packet Loss Ratio: 100.00 %
